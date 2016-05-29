@@ -5,21 +5,21 @@
 [apply]
     whitespace = nowarn
 
-[color "branch"]
+[color]
+    ui = true
 
+[color "branch"]
     current = green bold
     local = green
     remote = yellow
 
 [color "diff"]
-
     frag = magenta
     meta = yellow
     new = green
     old = red
 
 [color "status"]
-
     added = green reverse
     changed = yellow reverse
     untracked = red reverse
@@ -34,7 +34,7 @@
 
 [alias]
 	co = commit -am
-	p = push
+	p = push origin master
 	s = status
 	b = branch
 	ck = checkout
