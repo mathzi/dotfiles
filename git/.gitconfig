@@ -1,0 +1,41 @@
+[user]
+	name = Matheus Ferarezi
+	email = matheusferarezi@gmail.com
+
+[apply]
+    whitespace = nowarn
+
+[color "branch"]
+
+    current = green bold
+    local = green
+    remote = yellow
+
+[color "diff"]
+
+    frag = magenta
+    meta = yellow
+    new = green
+    old = red
+
+[color "status"]
+
+    added = green reverse
+    changed = yellow reverse
+    untracked = red reverse
+
+[help]
+    autocorrect = 1
+
+[core]
+	editor = subl -n -w
+	abbrev = 12
+    excludesfile = ~/.gitignore
+
+[alias]
+	co = commit -am
+	p = push
+	s = status
+	b = branch
+	ck = checkout
+	d = diff
