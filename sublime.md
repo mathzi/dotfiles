@@ -15,7 +15,7 @@ sudo apt-get install sublime-text-installer
 1. `license sublime`
 2. [`package control`](https://packagecontrol.io/installation)
 3. [`material theme`](http://equinusocio.github.io/material-theme/)
-4. [`config theme`](https://github.com/mathzi/dotfiles/sublime.md#wrench-material-theme-configs)
+4. [`config theme`](https://github.com/mathzi/dotfiles/blob/master/sublime.md#wrench-material-theme-configs)
 5. `preferences > font > larger or ctrl+=`
 
 ## :package: `packages`
