@@ -1,4 +1,4 @@
-# :gem: `my precious dotfiles`
+# `my precious dotfiles` ❤
 
 `Inspired by` [`thallesconfigs`](https://github.com/thallesmarchetti/thallesconfigs) `&` [`dotfiles`](http://dotfiles.github.io/)`.`
 
