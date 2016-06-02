@@ -1,24 +1,18 @@
 [user]
 	name = Matheus Ferarezi
 	email = matheusferarezi@gmail.com
-
 [apply]
-    whitespace = nowarn
-
+    	whitespace = nowarn
 [color]
-    diff = auto
-    status = auto
-    branch = auto
-    ui = true
-
+    	diff = auto
+    	status = auto
+    	branch = auto
+    	ui = true
 [help]
-    autocorrect = 1
-
+    	autocorrect = 1
 [core]
 	editor = subl -n -w
-	abbrev = 12
-    excludesfile = ~/.gitignore
-
+    	excludesfile = ~/.gitignore
 [alias]
 	co = commit -am
 	p = push origin master
