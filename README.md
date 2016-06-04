@@ -2,5 +2,5 @@
 
 `Inspired by` [`thallesconfigs`](https://github.com/thallesmarchetti/thallesconfigs) `&` [`dotfiles`](http://dotfiles.github.io/)`.`
 
-[![elementary](img/elementary.png)](#) [![git](img/git.png)](git/) [![sublime](img/sublime.png)](sublime/sublime.md)
+[![elementary](img/elementary.png)](elementary/) [![git](img/git.png)](git/) [![sublime](img/sublime.png)](sublime/sublime.md)
 
