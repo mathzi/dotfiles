@@ -40,6 +40,6 @@ sudo apt-get install sublime-text-installer
 	[
 		"Vintage"
 	],
-	"theme": "Material-Theme.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme",
 }
 ```
