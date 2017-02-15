@@ -35,7 +35,7 @@ sudo apt-get install sublime-text-installer
 
 ```
 {
-	"color_scheme": "Packages/Material Theme/schemes/OLD/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
